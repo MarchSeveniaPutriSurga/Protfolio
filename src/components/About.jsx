@@ -153,15 +153,15 @@ function About() {
                                         </span>
 
                                         <span className="rounded-full bg-pink-100/70 px-3 py-1.5 text-[10px] font-medium text-[#8b7185]">
-                                            UI/UX Design
+                                            Full Stack Developer
                                         </span>
 
                                         <span className="rounded-full bg-blue-100/70 px-3 py-1.5 text-[10px] font-medium text-[#687593]">
-                                            System Analysis
+                                            UI/UX Design
                                         </span>
 
                                         <span className="rounded-full bg-green-100/70 px-3 py-1.5 text-[10px] font-medium text-[#687593]">
-                                            Creative Design
+                                            System Analysis
                                         </span>
 
                                     </div>

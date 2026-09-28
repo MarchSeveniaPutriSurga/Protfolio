@@ -6,6 +6,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Intro from "./components/Intro";
+import Certificates from "./components/Certificates";
 
 function App() {
   const [scrolled, setScrolled] = useState(false);
@@ -32,6 +33,7 @@ function App() {
       <About />
       <Skills />
       <Projects />
+      <Certificates />
       <Contact />
 
     </div>

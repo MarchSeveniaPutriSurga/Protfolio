@@ -12,6 +12,24 @@ function Projects() {
             title: "SPK Kelayakan Nasabah",
             description:
                 "Sistem pendukung keputusan berbasis web untuk membantu proses penilaian kelayakan calon nasabah.",
+            tech: ["Figma", "UI/UX"],
+            type: "Web Design",
+            figma: "https://www.figma.com/proto/pCJqcISkKT4v00B73Hd690/Untitled?node-id=1-3&viewport=-3518%2C-757%2C0.45&t=YOkhyBK23NbNCS9B-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3&page-id=0%3A1&show-proto-sidebar=1",
+            media: [
+                { type: "image", src: "/images/florist/1.png" },
+                { type: "image", src: "/images/florist/2.png" },
+                { type: "image", src: "/images/florist/3.png" },
+            ],
+            thumbnail: {
+                type: "image",
+                src: "/images/florist/1.png",
+            },
+        },
+        {
+            number: "02",
+            title: "SPK Kelayakan Nasabah",
+            description:
+                "Sistem pendukung keputusan berbasis web untuk membantu proses penilaian kelayakan calon nasabah.",
             tech: ["Laravel", "PHP", "MySQL"],
             type: "Web Application",
             media: [
@@ -25,7 +43,7 @@ function Projects() {
             },
         },
         {
-            number: "02",
+            number: "03",
             title: "Website Permohonan Magang",
             description:
                 "Website untuk mengelola proses pendaftaran dan permohonan magang secara terstruktur.",
@@ -42,7 +60,7 @@ function Projects() {
             },
         },
         {
-            number: "03",
+            number: "04",
             title: "Klasifikasi Penyakit Kulit Kucing",
             description:
                 "Klasifikasi penyakit kulit kucing menggunakan Python dan CNN yang dilatih dengan dataset gambar untuk mengenali jenis penyakit berdasarkan foto.",
@@ -59,7 +77,7 @@ function Projects() {
             },
         },
         {
-            number: "04",
+            number: "05",
             title: "Redesign Peladen",
             description:
                 "Perancangan ulang tampilan platform Peladen dengan memperhatikan struktur informasi dan pengalaman pengguna.",
@@ -76,7 +94,7 @@ function Projects() {
             },
         },
         {
-            number: "05",
+            number: "06",
             title: "Gamification",
             description:
                 "Perancangan dan pengembangan tampilan website dengan menerapkan elemen gamifikasi untuk meningkatkan interaksi pengguna.",
@@ -93,7 +111,7 @@ function Projects() {
             },
         },
         {
-            number: "06",
+            number: "07",
             title: "Zaptech",
             description:
                 "Perancangan tampilan website dengan fokus pada visual, struktur informasi, dan pengalaman pengguna.",
@@ -111,7 +129,7 @@ function Projects() {
             },
         },
         {
-            number: "07",
+            number: "08",
             title: "Stripes",
             description:
                 "Perancangan website dengan pendekatan visual yang modern serta memperhatikan struktur dan pengalaman pengguna.",
@@ -129,7 +147,7 @@ function Projects() {
             },
         },
         {
-            number: "08",
+            number: "09",
             title: "Recipe Mobile",
             description:
                 "Perancangan antarmuka aplikasi mobile untuk membantu pengguna menemukan dan mengelola berbagai resep.",
