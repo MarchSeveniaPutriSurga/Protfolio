@@ -64,7 +64,7 @@ function Projects() {
             title: "Klasifikasi Penyakit Kulit Kucing",
             description:
                 "Klasifikasi penyakit kulit kucing menggunakan Python dan CNN yang dilatih dengan dataset gambar untuk mengenali jenis penyakit berdasarkan foto.",
-            tech: ["Figma", "React", "UI/UX"],
+            tech: ["Python", "HTML", "UI/UX"],
             type: "Machine Learning",
             media: [
                 { type: "image", src: "/images/klasifikasi/1.png" },

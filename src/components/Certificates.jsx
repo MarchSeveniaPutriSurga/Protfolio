@@ -30,7 +30,7 @@ function Certificates() {
             type: "Certification",
             year: "2026",
             description:
-                "Sertifikasi Microsoft Azure sebagai bagian dari pengembangan pengetahuan dan keterampilan di bidang cloud computing.",
+                "Sertifikasi Microsoft Azure AI Fundamentals sebagai bagian dari pengembangan pengetahuan dan keterampilan di bidang Artificial Intelligence (AI).",
             file: "/certificates/microsoft.pdf",
         },
         {
@@ -57,7 +57,7 @@ function Certificates() {
             <div className="relative mx-auto max-w-6xl">
                 {/* Heading */}
                 <div
-                    className={`mb-12 text-center transition-all duration-800 ease-out ${isVisible
+                    className={`mb-12 text-start transition-all duration-800 ease-out ${isVisible
                         ? "translate-y-0 opacity-100"
                         : "translate-y-8 opacity-0"
                         }`}
@@ -70,9 +70,8 @@ function Certificates() {
                         Certifications<span className="text-[#f07fe1]">.</span>
                     </h2>
 
-                    <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#777d92] sm:text-base">
-                        Certificates and training programs I have completed
-                        throughout my learning journey.
+                    <p className="mt-4 max-w-xl text-left text-sm leading-7 text-[#777d92] sm:text-base">
+                        Sertifikat dan pelatihan yang telah saya selesaikan selama perjalanan belajar dan pengembangan diri.
                     </p>
                 </div>
 
